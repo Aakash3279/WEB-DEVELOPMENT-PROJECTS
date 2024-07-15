@@ -9,6 +9,10 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 - **Reset and New Game:** Options to reset the current game or start a new one.
 - **Responsive Design:** Designed to work well on various screen sizes.
 
+## Preview
+
+![Tic Tac Toe Preview](./pictures/Photo.png)
+
 ## How to Play
 
 1. **Clone the Repository:** Clone this repository to your local machine using `git clone`.
@@ -33,10 +37,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 - **HTML:** For creating the structure of the game.
 - **CSS:** For styling the game board and controls.
 - **JavaScript:** For implementing the game's functionality, including player turns and win detection.
-
-## Preview
-
-![Tic Tac Toe Preview](./pictures/Photo.png)
 
 ## Video Repository
 
