@@ -1,5 +1,9 @@
 ### Tic Tac Toe Game
 
+## Preview
+
+![Tic Tac Toe Preview](./pictures/Photo.png)
+
 This project is a simple implementation of the classic Tic Tac Toe game using HTML, CSS, and JavaScript.
 
 ## Features
@@ -9,9 +13,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 - **Reset and New Game:** Options to reset the current game or start a new one.
 - **Responsive Design:** Designed to work well on various screen sizes.
 
-## Preview
-
-![Tic Tac Toe Preview](./pictures/Photo.png)
 
 ## How to Play
 
