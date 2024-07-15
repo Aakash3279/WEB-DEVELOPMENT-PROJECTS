@@ -39,6 +39,6 @@ This project is a simple implementation of the classic Tic Tac Toe game using HT
 - **CSS:** For styling the game board and controls.
 - **JavaScript:** For implementing the game's functionality, including player turns and win detection.
 
-## Video Repository
+## Video link
 
 Watch a demo of this Tic Tac Toe game in action: [Tic Tac Toe Demo Video](https://youtu.be/SqrppLEljkY?si=k57-uiBtfbpGjQcr)
